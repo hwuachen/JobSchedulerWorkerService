@@ -1,1 +1,1 @@
-C:\Users\hwuac\anaconda3\python Hello.py
+Path\to\python Hello.py
