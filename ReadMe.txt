@@ -1,4 +1,6 @@
-﻿# ┌───────────── minute (0 - 59)
+https://docs.oracle.com/cd/E12058_01/doc/doc.1014/e12030/cron_expressions.htm
+
+# ┌───────────── minute (0 - 59)
 # │ ┌───────────── hour (0 - 23)
 # │ │ ┌───────────── day of the month (1 - 31)
 # │ │ │ ┌───────────── month (1 - 12)
